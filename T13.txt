@@ -1,0 +1,31 @@
+:::::WINGS-1-113:::::
+
+Data Warehouse: https://www.linkedin.com/learning/introduction-to-data-warehouses - 49M
+
+Data Visualization: https://www.linkedin.com/learning/how-to-use-data-visualization-to-make-better-decisions-faster/ - 51M
+
+Introduction to Tableau: https://www.linkedin.com/learning/everybody-s-introduction-to-tableau/ - 1H 14M
+
+Data Visualization with Tableau: https://tcsglobal.udemy.com/course/tableau-data-visualization-starttech/ - 10H (https://youtube.com/playlist?list=PLNcg_FV9n7qZJqrKcUUCWCWPYCrlcVm9v&si=KUTjdOkOaObcH0cS-21H)
+
+Informatica Power Center: https://tcsglobal.udemy.com/course/informatica-powercenter-961-beginners-to-advanced/learn/lecture/13659538#overview - 19.5H (https://www.youtube.com/watch?v=V2FtZ_INmjg- 15H)
+
+Informatica Tutorial:
+- Informatica Architecture
+- Informatica PowerCenter
+- Power Center Designer
+- Mapping in Informatica
+- Informatica ETL
+- Informatica Transformations
+- Aggregator Transformation
+- Router Transformation
+- Joiner Transformation
+- Filter Transformation
+- Rank Transformation
+- Transaction Control Transformation
+- Lookup Transformation in Informatica
+- Partitioning in Informatica
+
+In this tutorial, you will learn how Informatica performs various activities such as data profiling, data cleaning, transforming, and scheduling the workflows from source to target.
+
+Snowflake: https://tcsglobal.udemy.com/course/ultimate-snowpco-core-certification-course-exam/ - 7.5H

@@ -1,0 +1,216 @@
+Prepared by Yash Mirge
+
+Data Warehouse,
+Tableau & Informatica
+Reference Resources
+- Yash Mirge
+
+Prepared by Yash Mirge
+
+LinkedIn 3 post links
+Post 1 : https://www.linkedin.com/posts/activity7237793175375892481ECg2?utm_source=share&utm_medium=member_desktop&rc
+m=ACoAAC3lvu0BYu49Uz0oEtGLO1Glrs-Odd4vlsA
+Post 2 : https://www.linkedin.com/posts/activity7261356337400332288UNFF?utm_source=share&utm_medium=member_desktop&rc
+m=ACoAAC3lvu0BYu49Uz0oEtGLO1Glrs-Odd4vlsA
+Post 3 : https://www.linkedin.com/posts/activity7265986180976963584SKC_?utm_source=share&utm_medium=member_desktop&rc
+m=ACoAAC3lvu0BYu49Uz0oEtGLO1Glrs-Odd4vlsA
+
+Prepared by Yash Mirge
+
+1] Data Warehouse Resources
+(2-3 questions came in exam...so for this cycle you can expect 4-5
+questions.)
+
+Mcq’s Resources:
+1) https://lnkd.in/diiXkZsT
+2) https://lnkd.in/dSAyJx2u
+3) https://lnkd.in/d5zaEMJ7
+4) https://lnkd.in/duNd2yeP
+5) https://lnkd.in/dhfebmxN
+
+1. LinkedIn post for Data warehouse
+Link : https://www.linkedin.com/posts/activity-7165652373913124864oLsr/?utm_source=share&utm_medium=member_android
+====================================================
+𝐊𝐞𝐲 𝐏𝐨𝐢𝐧𝐭𝐬:
+𝐃𝐚𝐭𝐚 𝐖𝐚𝐫𝐞𝐡𝐨𝐮𝐬𝐞 :
+1] Data Warehouse Components
+2] Operational Database Vs Data Warehouse
+3] Data Warehouse Architecture
+4] Operational Data Stores
+5] What is ETL
+6] ETL vs ELT
+7] Types of Data Warehouses
+8] Data Warehouse Modeling
+9] Data Warehouse Design
+10] Data Warehouse Implementation
+11] What is Meta Data
+12] What is Data Mart
+13] Delivery Process
+
+Prepared by Yash Mirge
+
+𝐎𝐋𝐀𝐏 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲:
+1] What is OLAP
+2] Characteristics of OLAP
+3] OLTP vs OLAP
+4] OLAP Operations
+5] Types of OLAP
+6] ROLAP vs MOLAP vs HOLAP
+𝐃𝐢𝐦𝐞𝐧𝐬𝐢𝐨𝐧𝐚𝐥 𝐌𝐨𝐝𝐞𝐥𝐢𝐧𝐠:
+1] What is Dimensional Modeling ?
+2] What is Multi-Dimensional Data Model?
+3] What is Data Cube?
+𝐒𝐜𝐡𝐞𝐦𝐚𝐬:
+1] What is Star Schema?
+2] What is Snowflake Schema?
+3] Star vs Snowflake Schemas
+4] Fact Constellation Schema
+Link for above content: https://lnkd.in/dRzV66hY
+
+Prepared by Yash Mirge
+
+Note: Equal number of mcq’s questions of Tableau and
+informatica was there in exam.
+
+2] Tableau Resources
+MCQ’s Resources:
+1) https://lnkd.in/dMUCTt9K
+2) https://lnkd.in/dvar97vF
+3) https://lnkd.in/d3S-BDua
+4) https://lnkd.in/diGwrbHH
+Important topics for Mcq’s exam:
+𝐓𝐚𝐛𝐥𝐞𝐚𝐮 𝐊𝐞𝐲 𝐏𝐨𝐢𝐧𝐭𝐬:
+1] Dimensions and Measures
+2] Tableau Data types
+3] Tableau Dashboard components
+4] Discrete vs continues field in tableau
+5] Types of Maps in Tableau (symbol Maps & filled Maps)
+6] What is groups in tableau?
+7] Uses of charts in tableau.
+8] Tableau menu commands (Format, Server, Help, File, Data, Worksheet,
+Dashboard, Analysis, Maps, Story).
+9] What is fact table?
+10] List out Tableau File Extensions.
+11] What are the different Joins in Tableau?
+12] Use of Tableau filter
+13] Use of Tableau Calculation field
+14] Use of Tableau parameter
+15] Use of Tableau actions and sets. etc..
+
+Prepared by Yash Mirge
+
+3] Informatica Resources
+MCQ’s Resources:
+1) https://lnkd.in/dP2BFuFi
+2) https://lnkd.in/dPUkik4g
+3) https://lnkd.in/dyDSSnGz
+Important topics for Mcq’s exam:
+𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐜𝐚 𝐊𝐞𝐲 𝐏𝐨𝐢𝐧𝐭𝐬:
+1] What is ETL and its Uses in Real-Time Business.
+2] Why We Need Informatica?
+3] Data transformation activities.
+4] services and components of Informatica ETL tool.
+5] Informatica all transformation types (Most most most important.)
+6] Differences in between transformation types.
+7] How do you load first and last records into target table? (Ans: with the
+help of Rank Transformation.) etc..
+
+Prepared by Yash Mirge
+
+Tableau & Informatica Handson
+Resources
+1. Tableau YouTube Link: https://lnkd.in/deq_snAi
+2. Informatica YouTube Link : https://lnkd.in/dFR2f7mY
+
+Tableau Functions Link: https://lnkd.in/dqdm3q8R
+Informatica Functions Link: https://lnkd.in/d8wkdFu3
+♨ 𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬 𝐟𝐨𝐫 𝐞𝐱𝐚𝐦 𝐩𝐞𝐫𝐬𝐩𝐞𝐜𝐭𝐢𝐯𝐞:
+CEILING
+FLOOR
+ROUND
+LOWER
+UPPER
+LTRIM
+RTRIM
+TRIM
+LEFT
+RIGHT
+MID
+CONTAINS
+STARTSWITH
+ENDSWITH
+FIND
+FINDNTH
+SPLIT
+
+Prepared by Yash Mirge
+
+REPLACE
+DATEPART
+DATENAME
+MONTH
+YEAR
+DAY
+DATETRUNC
+DATEADD
+DATEDIFF
+TODAY
+NOW
+ZN
+IFNULL
+ISNULL
+All Aggregate functions
+FIXED
+EXCLUDE
+INCLUDE
+
+Most Important Topics For Tableau and Informatica.
+♨𝐓𝐚𝐛𝐥𝐞𝐚𝐮:
+1) Tableau all charts.
+2) Tableau Filter.
+3) Tableau Parameters.
+4) Tableau Actions.
+5) Tableau Calculations Field.
+6) Tableau Sets.
+7) Tableau Calculations (Row level Calculation, Aggregate calculation,
+Table calculation, LOD Calculation).
+
+Prepared by Yash Mirge
+
+♨𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐜𝐚:
+1) All Informatica Transformation types (Filter, Expression, Sorting,
+Joiner, Aggregator, etc..).
+
+♨𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐲:
+
+Speed and accuracy is crucial for this exam
+𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐞..𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐞..𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐞 ( Consistency is the key 🗝 )
+𝐅𝐨𝐫 𝐭𝐚𝐛𝐥𝐞𝐚𝐮 𝐚𝐧𝐝 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐜𝐚,
+Whatever the topics are there for aptitude exam like Profit and loss,
+Average, Ages, etc. So, you should know standards formulae of these
+topics.
+Whenever you start Tableau part, Immediately do registration process.
+Don't spend much time on registration process. Once you completed 1st
+problem statement, save it immediately. Behind the reason for this is if
+your screen got stuck at any time then with the help of invigilator you can
+restart the fresco play platform and can continue exam. It will save your
+lot of time.
+Similarly whenever you start Informatica part,
+First create source and target tables.
+𝐎𝐩𝐞𝐧 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐜𝐚 𝐏𝐨𝐰𝐞𝐫𝐂𝐞𝐧𝐭𝐞𝐫 𝐌𝐚𝐧𝐚𝐠𝐞𝐫: Create a folder as per
+given in problem statement.
+𝐎𝐩𝐞𝐧 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐜𝐚 𝐃𝐞𝐬𝐢𝐠𝐧𝐞𝐫: Do the require connection and Import
+source and target database. According to problem statement create a
+transformation type and finally do the mapping
+(Source Table -> Transformation Type -> Target table).
+
+Prepared by Yash Mirge
+
+𝐎𝐩𝐞𝐧 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐜𝐚 𝐖𝐨𝐫𝐤𝐟𝐥𝐨𝐰 𝐌𝐚𝐧𝐚𝐠𝐞𝐫: Create workflow and
+session. And create a connection with mapping.
+𝐎𝐩𝐞𝐧 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐜𝐚 𝐖𝐨𝐫𝐤𝐟𝐥𝐨𝐰 𝐌𝐨𝐧𝐢𝐭𝐨𝐫: Once you run workflow,
+its status will show in Workflow monitor (Succeed or Failed).
+These are the basic steps. So, you should know navigation for how to do
+connection, how to create transformation type, session, workflow quickly.
+
+

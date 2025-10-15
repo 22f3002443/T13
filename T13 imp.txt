@@ -1,0 +1,223 @@
+Yash Mirge
+
+Tax Consultant
+
+Data Engineering &
+Visualization (T13) Tech
+Track
+Hands-on
+Important key Points
+SWIPE
+
+Tableau
+Important Concepts
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+
+Groups
+Sets
+Filters
+Parameters
+Actions
+Calculation Field
+Tableau Functions
+Tableau Charts
+SWIPE
+
+Tableau
+Youtube Link to Learn
+Tableau Concepts
+https://www.youtube.com/w
+atch?v=K3pXnbniUcM
+
+SWIPE
+
+Tableau
+Important Charts
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+
+Bar Chart
+Line Chart
+Dual Axis Chart
+Area Chart
+Histogram
+Pie Chart
+Tree Maps
+Scatter Plot
+SWIPE
+
+Tableau
+Important Charts
+9.
+10.
+
+SWIPE
+
+Bubble Chart
+Heat Map
+
+Tableau
+Functions
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Number Function
+String Function
+Date Function
+Logical Function
+Aggregate Function
+Table Function
+Regular Expression
+
+SWIPE
+
+Tableau
+Tableau Functions Link
+https://help.tableau.com/cur
+rent/pro/desktop/enus/functions_all_categories.
+htm
+
+SWIPE
+
+Informatica
+Important Concepts
+1. Informatica PowerCenter
+Manager
+2.
+Informatica Designer
+3.
+Informatica Workflow
+Manager
+4.
+Informatica Workflow
+Monitor
+5.
+Transformation Types
+SWIPE
+
+Informatica
+Steps to Perform Informatica
+Problem Statements
+1.
+
+create source and target
+tables.
+
+2.
+
+Informatica Powercenter
+Manager
+⟶ Create a folder as per given in
+problem statement.
+SWIPE
+
+Informatica
+Steps to Perform Informatica
+Problem Statements
+3.
+
+Informatica Designer
+
+⟶ Do the require connection and
+Import source and target database.
+According to problem statement create
+a transformation type and finally do the
+mapping
+(Source Table -> Transformation Type ->
+Target table).
+SWIPE
+
+Informatica
+Steps to Perform Informatica
+Problem Statements
+4.
+
+Informatica Workflow
+Manager
+
+⟶ Create workflow and session. And
+create a connection with mapping.
+
+SWIPE
+
+Informatica
+Steps to Perform Informatica
+Problem Statements
+5.
+
+Informatica Workflow
+Monitor
+
+⟶ Once you run workflow, its status will
+show in Workflow monitor (Succeed or
+Failed).
+
+SWIPE
+
+Informatica
+Transformaion Types
+1.
+Filter Transformation
+2. Expression Transformation
+3.
+Joiner Transformation
+4.
+Sorter Transformation
+5. Aggregator Transformation
+6.
+Router Transformation
+7.
+Rank Transformation
+SWIPE
+
+Informatica
+Transformaion Types
+
+9. Sequence Transformation
+10.
+Union Transformation
+
+SWIPE
+
+Informatica
+Youtube Link to Learn Informatica
+Powercenter Concepts
+https://www.youtube.com/watch
+?
+v=V2FtZ_INmjg&list=PLsphD3Ep
+R7F9HtxQHfoRAStSWAuF7zBfd&
+index=3
+
+SWIPE
+
+Informatica
+Informatica Functions Link
+https://docs.informatica.co
+m/data-catalog/commoncontent-for-datacatalog/10-54/transformation-languagereference/functions.html
+
+SWIPE
+
+WISH YOU
+ALL THE BEST TO
+ELEVATE WINGS
+ASPIRANTS
+
+
